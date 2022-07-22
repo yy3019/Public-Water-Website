@@ -1,0 +1,13 @@
+name: public_water_test
+title: public_water_test
+username:
+account: yy3019
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6084867
+bundleId: 5795665
+url: https://yy3019.shinyapps.io/public_water_test/
+when: 1649875895.58954
+lastSyncTime: 1649875895.58954
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,13 @@
+name: drinking-water-dashboard
+title: drinking-water-dashboard
+username:
+account: msph
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4092305
+bundleId: 5874964
+url: https://msph.shinyapps.io/drinking-water-dashboard/
+when: 1651785000.58517
+lastSyncTime: 1651785000.58517
+asMultiple: FALSE
+asStatic: FALSE
